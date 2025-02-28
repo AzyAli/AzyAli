@@ -2,11 +2,11 @@
 <div align="center">
   <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="header"/>
 </div>
-<p align="center"> (Man is not worried by real problems so much as by his imagined anxieties about real problems. -Epictetus) </p>
+<p align="center"> Man is not worried by real problems so much as by his imagined anxieties about real problems. -Epictetus </p>
 
 <h2 align="center"> 👨🏽‍💻 Who am I ? </h2>
 <p align="center">
-  <samp>Spatial Engineering graduate, From ITC-University of Twente. I focus on Remote Sensing, Spatial Data Analysis, and Digital Twin technologies for disaster risk management and flood modeling. I'm passionate about co-designing solutions with local communities to improve resilience and sustainability in the Global South.
+  <samp>Spatial Engineering graduate From ITC-University of Twente. I focus on Remote Sensing, Spatial Data Analysis, and Digital Twin technologies for disaster risk management and flood modeling. I'm passionate about co-designing solutions with local communities to improve resilience and sustainability in the Global South.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=AzyAli" alt="https://github.com/AzyAli" />
@@ -64,8 +64,9 @@
       <td>
         <span title="Football">⚽</span>
         <span title="Architecture">🏛️</span>
-        <span title="Chinese Medicine & Culture">🇨🇳 🐉 🧪</span>
+        <span title="Chinese Medicine & Culture">🇨🇳🐉🧪</span>
         <span title="Maps">🗺️</span>
+        <span title="BJJ">🤼🏽‍♂️🥋🇧🇷</span>
       </td>
     </tr>
   </table>
